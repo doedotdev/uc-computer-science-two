@@ -1,6 +1,20 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
 //
 
+/*
+Benjamin Horn
+University of Cincinnati
+Computer Science
+MBA Data Science
+*/
+
+/*
+Singly and Doubly Linked List Implementations
+Headers File Listed below
+#include "singlyLinkedList.h"
+#include "doublyLinkedList.h"
+*/
+
 #include "stdafx.h"
 #include <iostream>
 #include <cstdio>

@@ -1,3 +1,19 @@
+/*
+Benjamin Horn
+University of Cincinnati
+Computer Science
+MBA Data Science
+*/
+
+/*
+Singly and Doubly Linked List Implementations
+Headers File Listed below
+#include "singlyLinkedList.h"
+#include "doublyLinkedList.h"
+*/
+
+
+
 
 #include <iostream>
 #include <stdio.h>
