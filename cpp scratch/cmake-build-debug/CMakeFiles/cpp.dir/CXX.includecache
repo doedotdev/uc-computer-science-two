@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/benjamin.horn/Documents/cpp/main.cpp
+iostream
+-
+singlyLinkedList.h
+/Users/benjamin.horn/Documents/cpp/singlyLinkedList.h
+
+/Users/benjamin.horn/Documents/cpp/singlyLinkedList.h
+singlyLinkedList.h
+/Users/benjamin.horn/Documents/cpp/singlyLinkedList.h
+doublyLinkedList.h
+/Users/benjamin.horn/Documents/cpp/doublyLinkedList.h
+iostream
+-
+stdio.h
+-
+string
+-
+
